@@ -6,7 +6,7 @@ First unzip the downloaded file, then select the folowing files:
 - RF3D_8_mex.mexw64
 - RF3D_8_mex.mexmaci64
 
-And copy them to the folder .../IPTA_github/IPTA/IPTA_matlab 
+And copy them to the folder .../IPTA/IPTA_matlab 
 
 Signal Processing Toolbox https://www.mathworks.com/products/signal.html?s_tid=AO_PR_info and Image Processing Toolbox are required https://www.mathworks.com/products/image.html?s_tid=AO_PR_info
 
