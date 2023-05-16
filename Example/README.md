@@ -1,3 +1,6 @@
+When executing example the working directory must be this folder.
+
+## Matlab
 
 IMPORTANT: Remember to download RF3D form https://webpages.tuni.fi/foi/GCF-BM3D/ by clicking on "_Download zipped RF3D MATLAB software_".
 First unzip the downloaded file, then select the folowing files:
@@ -9,6 +12,12 @@ First unzip the downloaded file, then select the folowing files:
 And copy them to the folder .../IPTA/IPTA_matlab 
 
 Signal Processing Toolbox https://www.mathworks.com/products/signal.html?s_tid=AO_PR_info and Image Processing Toolbox are required https://www.mathworks.com/products/image.html?s_tid=AO_PR_info
+
+## Python
+This libraries are requiered:
+l1
+l2
+l3
 
 # How to execute IPTA example
 
