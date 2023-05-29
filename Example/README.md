@@ -16,11 +16,9 @@ Signal Processing Toolbox https://www.mathworks.com/products/signal.html?s_tid=A
 ## Python
 This libraries are requiered:
 
-l1
-
-l2
-
-l3
+- Numpy
+- Scikit-image
+- Some other libraries may be required, depends on your system
 
 # How to execute IPTA example
 
