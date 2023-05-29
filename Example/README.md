@@ -25,4 +25,4 @@ This libraries are requiered:
 1. Execute IPTA_example_part1.m on matlab, these will calculate and create the temporal cross correlation form the example.fits file. It will be saved on correlation.mat.
 2. Execute IPTA_example_part2.py with python. These will estimate the wind profile form the coorelation.mat file. The estimated profiles will be saved on estimations.json.
 
-DISCLAIMER: this version of IPTA asumes that the baseline is located horizontlly and on the right side (see plot example on IPTA_example_part1.m).
+DISCLAIMER: this version of IPTA asumes that the baseline is located horizontally and on the left side (see plot example on IPTA_example_part1.m).
